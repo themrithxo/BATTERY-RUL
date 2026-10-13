@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Battery RUL Lab
 
 Streamlit app for 22MDC56 Machine Learning Laboratory: predicts battery remaining useful life (RUL)
@@ -44,3 +45,7 @@ utils/ml.py       splits, models, metrics, importances
 utils/db.py       SQLite backend
 utils/theme.py    colours, CSS, Plotly template
 ```
+=======
+# BATTERY-RUL
+Battery RUL Prediction using Machine Learning estimates battery lifespan from historical data. Built with Python and Streamlit, it features data preprocessing, EDA, Linear Regression, Decision Tree, Random Forest, model evaluation, batch prediction, interactive dashboards, maintenance cost analysis, and SQLite-based activity monitoring.
+>>>>>>> 08bcc1b89262d8493eeed974977aa7dd5926a319
